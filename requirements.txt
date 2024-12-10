@@ -1,0 +1,13 @@
+flask==2.3.2
+streamlit==1.40.2
+numpy==1.23.5
+scipy==1.9.3
+mediapipe==0.10.18
+spacy==3.8.2
+tensorflow-intel==2.18.0
+thinc==8.3.0
+pandas==1.4.0
+blis==1.0.1
+jax==0.4.30
+jaxlib==0.4.30
+

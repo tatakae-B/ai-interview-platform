@@ -1,0 +1,7 @@
+AIInterviewPlatform/
+├── app.py                 # Main Flask app
+├── requirements.txt       # List of all Python dependencies
+├── Procfile               # Specifies how to run your app
+├── runtime.txt            # Specifies Python version
+├── static/                # Optional: CSS/JavaScript files
+├── templates/             # Optional: HTML templates
